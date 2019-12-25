@@ -1,11 +1,11 @@
 # Site settings
 author: Vesna Vucinic
-title: 
+title: CLI Project
 header-img: img/home-bg.png
 email: vesna.vucinic68@gmail.com
 copyright_name: Vesna Vucinic
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI project about Royal Parks in London
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  VesnaVucinic
