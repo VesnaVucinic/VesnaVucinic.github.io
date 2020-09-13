@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails API with JavaScript Frontend"
-date:       2020-09-13 17:13:36 +0000
+date:       2020-09-13 13:13:37 -0400
 permalink:  rails_api_with_javascript_frontend
 ---
 
